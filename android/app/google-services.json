@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401616373861",
+    "project_id": "sitebio",
+    "storage_bucket": "sitebio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401616373861:android:bbb2f8effa157ace589e8c",
+        "android_client_info": {
+          "package_name": "com.otechsolucoes.mybio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401616373861-nu3fan7gsrgoc3sirc2ksteacvviik21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogMCu0nh4vRSQB6LW6lW0Cr5Sl7fxllw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401616373861-nu3fan7gsrgoc3sirc2ksteacvviik21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
