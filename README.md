@@ -4,6 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oliveiramsdevs?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/oliveiramsdevs)
 
+<a href="https://www.buymeacoffee.com/oliveiradevs"><img src="https://img.buymeacoffee.com/button-api/?text=Compre-me um café&emoji=&slug=oliveiradevs&button_colour=5F7FFF&font_colour =ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
     
 ### ⚡&ensp;Social Media
 
@@ -14,3 +15,5 @@
 
 
 [<img align="center" alt="MichelOliveira | Cafezinho " width="22px" src="https://aux.iconspalace.com/uploads/coffee-icon-256.png" />](https://www.buymeacoffee.com/oliveiradevs "Pague um Café para Michel Oliveira")&ensp;Vai um Cafézin: [@oliveiramicheldevs](https://www.buymeacoffee.com/oliveiradevs "Pague um Café para Michel Oliveira")
+
+
